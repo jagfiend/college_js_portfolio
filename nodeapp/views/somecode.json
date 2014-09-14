@@ -1,0 +1,7 @@
+{
+	'imageTitle' : 'kitten', 'imageAltText' : 'a cute kitten', 'imageSRCText' : 'kitten200.jpg', 'tabNumber' : '1', 'createdAt' : '0', 'modifiedAt' : '0', 
+	'imageTitle' : 'pup', 'imageAltText' : 'a cute pup', 'imageSRCText' : 'pup200.jpg', 'tabNumber' : '2', 'createdAt' : '0', 'modifiedAt' : '0',
+	'imageTitle' : 'rain', 'imageAltText' : 'kids in the rain', 'imageSRCText' : 'rain200.jpg', 'tabNumber' : '3', 'createdAt' : '0', 'modifiedAt' : '0',
+
+	'username' : 'test user', 'email' : 'test@test.com', 'password' : 'p@55w0rd', 'createdAt' : '0', 'modifiedAt' : '0'
+}
